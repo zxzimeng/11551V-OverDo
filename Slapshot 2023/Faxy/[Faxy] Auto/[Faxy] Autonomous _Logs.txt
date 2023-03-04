@@ -211,3 +211,58 @@ max rotation 0.3200073
 min rotation -0.2999878 
 average deviation 0.1212084
 [[0.4799805, 0.1088807, 0.1299744, -0.3500061, 7.75], [0.6099854, 0.1521105, 0.4400024, -0.1699829, 7.85], [0.6199951, 0.1212084, 0.3200073, -0.2999878, 7.950001], [0.6900024, 0.2597443, 0.5099792, -0.1800232, 7.8], [0.7399902, 0.3608675, 0.6099854, -0.1300049, 7.900001]]
+
+
+tries 5 start 7.75 increment 0.05
+max rotation 1.850006 
+min rotation -0.02999878 
+average deviation 0.9533713
+max rotation 0.8499908 
+min rotation -0.3300018 
+average deviation 0.4045996
+max rotation 1.369995 
+min rotation -0.1300049 
+average deviation 0.7785562
+max rotation 0.4600067 
+min rotation -0.2200012 
+average deviation 0.1361857
+max rotation 0.0 
+min rotation -1.470001 
+average deviation 0.672574
+[[0.6800079, 0.1361857, 0.4600067, -0.2200012, 7.900001], [1.179993, 0.4045996, 0.8499908, -0.3300018, 7.8], [1.470001, 0.672574, 0.0, -1.470001, 7.950001], [1.5, 0.7785562, 1.369995, -0.1300049, 7.85], [1.880005, 0.9533713, 1.850006, -0.02999878, 7.75]]
+
+tries 7 start 1.01 increment 1
+max rotation 27.32001 
+min rotation -23.23 
+average deviation 13.58102
+max rotation 1.029999 
+min rotation -1.87999 
+average deviation 0.7989983
+max rotation 54.54001 
+min rotation -0.269989 
+average deviation 33.86076
+
+tries 7 start 2 increment 1
+max rotation 1.720001 
+min rotation -0.1000061 
+average deviation 0.7877439
+max rotation 1.259995 
+min rotation -0.1700134 
+average deviation 0.8107121
+max rotation 0.9199982 
+min rotation -0.3700104 
+average deviation 0.548934
+max rotation 0.3099976 
+min rotation -1.419998 
+average deviation 0.7646207
+max rotation 0.0 
+min rotation -1.449997 
+average deviation 0.9310128
+max rotation 0.05000305 
+min rotation -1.409988 
+average deviation 0.6666769
+max rotation 1.179993 
+min rotation -0.5099945 
+average deviation 0.3654303
+[[1.290009, 0.548934, 0.9199982, -0.3700104, 4], [1.430008, 0.8107121, 1.259995, -0.1700134, 3], [1.449997, 0.9310128, 0.0, -1.449997, 6], [1.459991, 0.6666769, 0.05000305, -1.409988, 7], [1.689987, 0.3654303, 1.179993, -0.5099945, 8], [1.729996, 0.7646207, 0.3099976, -1.419998, 5], [1.820007, 0.7877439, 1.720001, -0.1000061, 2]]
+
