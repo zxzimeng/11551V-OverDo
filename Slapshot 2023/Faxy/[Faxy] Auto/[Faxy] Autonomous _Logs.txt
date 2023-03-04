@@ -1,0 +1,213 @@
+max rotation 0.2299805 
+min rotation -0.08999634 
+average deviation 0.07821299
+max rotation 0.1900024 
+min rotation -1.769989 
+average deviation 1.202659
+max rotation 0.04998779 
+min rotation -2.310028 
+average deviation 1.649483
+max rotation 0.3199768 
+min rotation 0.0 
+average deviation 0.2032347
+max rotation 0.1199951 
+min rotation -0.02001953 
+average deviation 0.0491841
+[[0.1400146, 0.0491841, 0.1199951, -0.02001953, 5.01], [0.3199768, 0.07821299, 0.2299805, -0.08999634, 1.01], [0.3199768, 0.2032347, 0.3199768, 0.0, 4.01], [1.959991, 1.202659, 0.1900024, -1.769989, 2.01], [2.360016, 1.649483, 0.04998779, -2.310028, 3.01]]
+max rotation 0.9899902 
+min rotation -0.01000977 
+average deviation 0.5638604
+max rotation 0.0 
+min rotation -2.359985 
+average deviation 1.665516
+max rotation 0.0 
+min rotation -1.339996 
+average deviation 0.9589359
+max rotation 0.3399963 
+min rotation -0.1200256 
+average deviation 0.1036399
+max rotation 1.019989 
+min rotation 0.0 
+average deviation 0.5284935
+[[0.460022, 0.1036399, 0.3399963, -0.1200256, 8], [1.0, 0.5638604, 0.9899902, -0.01000977, 5], [1.019989, 0.5284935, 1.019989, 0.0, 9], [1.339996, 0.9589359, 0.0, -1.339996, 7], [2.359985, 1.665516, 0.0, -2.359985, 6]]
+tries 7.8 start 5 increment 0.1
+max rotation 0.7599792 
+min rotation -0.01000977 
+average deviation 0.401995
+max rotation 0.4400024 
+min rotation -0.08001709 
+average deviation 0.232163
+max rotation 1.02002 
+min rotation -0.1199951 
+average deviation 0.3281115
+max rotation 0.4700012 
+min rotation -0.1300049 
+average deviation 0.1965829
+max rotation 0.980011 
+min rotation -0.08999634 
+average deviation 0.3534539
+max rotation 0.8299866 
+min rotation -0.1199951 
+average deviation 0.3559669
+max rotation 0.9500122 
+min rotation -0.07000732 
+average deviation 0.3994294
+max rotation 0.5299988 
+min rotation -0.08999634 
+average deviation 0.2342887
+[[0.5200195, 0.232163, 0.4400024, -0.08001709, 5.1], [0.6000061, 0.1965829, 0.4700012, -0.1300049, 5.3], [0.6199951, 0.2342887, 0.5299988, -0.08999634, 5.699999], [0.769989, 0.401995, 0.7599792, -0.01000977, 5], [0.9499817, 0.3559669, 0.8299866, -0.1199951, 5.5], [1.02002, 0.3994294, 0.9500122, -0.07000732, 5.599999], [1.070007, 0.3534539, 0.980011, -0.08999634, 5.4], [1.140015, 0.3281115, 1.02002, -0.1199951, 5.2]]
+tries 5 start 7.8 increment 0.1
+max rotation 0.1700134 
+min rotation -0.1799927 
+average deviation 0.07801657
+max rotation 0.9100037 
+min rotation -0.1199951 
+average deviation 0.2991904
+max rotation 0.6900024 
+min rotation -0.1499939 
+average deviation 0.3041589
+max rotation 0.7000122 
+min rotation -0.1699829 
+average deviation 0.3226563
+max rotation 0.3900146 
+min rotation -0.1799927 
+average deviation 0.1670886
+[[0.3500061, 0.07801657, 0.1700134, -0.1799927, 7.8], [0.5700073, 0.1670886, 0.3900146, -0.1799927, 8.200001], [0.8399963, 0.3041589, 0.6900024, -0.1499939, 8.0], [0.8699951, 0.3226563, 0.7000122, -0.1699829, 8.1], [1.029999, 0.2991904, 0.9100037, -0.1199951, 7.9]]
+tries 5 start 7.8 increment 0.1
+max rotation 0.4200134 
+min rotation -0.06997681 
+average deviation 0.1661687
+max rotation 0.3800049 
+min rotation -0.1600037 
+average deviation 0.1563487
+max rotation 0.8399963 
+min rotation -0.1100159 
+average deviation 0.3272313
+max rotation 0.6100159 
+min rotation -0.1999817 
+average deviation 0.2344572
+max rotation 0.5800171 
+min rotation -0.06997681 
+average deviation 0.2331747
+[[0.4899902, 0.1661687, 0.4200134, -0.06997681, 7.8], [0.5400085, 0.1563487, 0.3800049, -0.1600037, 7.9], [0.6499939, 0.2331747, 0.5800171, -0.06997681, 8.200001], [0.8099976, 0.2344572, 0.6100159, -0.1999817, 8.1], [0.9500122, 0.3272313, 0.8399963, -0.1100159, 8.0]]
+tries 5 start 7.5 increment 0.1
+max rotation 0.4400024 
+min rotation -0.08999634 
+average deviation 0.1642482
+max rotation 0.3000183 
+min rotation -0.2599792 
+average deviation 0.122599
+max rotation 0.4700012 
+min rotation -0.1900024 
+average deviation 0.21705
+max rotation 0.5299988 
+min rotation -0.2000122 
+average deviation 0.2050235
+max rotation 0.5899963 
+min rotation -0.1499939 
+average deviation 0.2878563
+[[0.5299988, 0.1642482, 0.4400024, -0.08999634, 7.5], [0.5599976, 0.122599, 0.3000183, -0.2599792, 7.6], [0.6600037, 0.21705, 0.4700012, -0.1900024, 7.7], [0.730011, 0.2050235, 0.5299988, -0.2000122, 7.8], [0.7399902, 0.2878563, 0.5899963, -0.1499939, 7.9]]
+tries 5 start 7.5 increment 0.1
+max rotation 0.8200073 
+min rotation -0.04998779 
+average deviation 0.3666394
+max rotation 0.4299927 
+min rotation -0.1700134 
+average deviation 0.1741386
+max rotation 0.6400146 
+min rotation -0.07998657 
+average deviation 0.3519595
+max rotation 0.3300171 
+min rotation -0.1799927 
+average deviation 0.1845085
+max rotation 0.460022 
+min rotation -0.1099854 
+average deviation 0.1576018
+[[0.5100098, 0.1845085, 0.3300171, -0.1799927, 7.8], [0.5700073, 0.1576018, 0.460022, -0.1099854, 7.9], [0.6000061, 0.1741386, 0.4299927, -0.1700134, 7.6], [0.7200012, 0.3519595, 0.6400146, -0.07998657, 7.7], [0.8699951, 0.3666394, 0.8200073, -0.04998779, 7.5]]
+tries 5 start 7.5 increment 0.1
+max rotation 1.389984 
+min rotation 0.0 
+average deviation 0.6832356
+max rotation 1.160004 
+min rotation -0.1499939 
+average deviation 0.443224
+max rotation 0.8999939 
+min rotation -0.1799927 
+average deviation 0.4307437
+max rotation 0.4200134 
+min rotation -0.2099915 
+average deviation 0.2045233
+max rotation 0.4299927 
+min rotation -0.3099976 
+average deviation 0.1242998
+[[0.6300049, 0.2045233, 0.4200134, -0.2099915, 7.8], [0.7399902, 0.1242998, 0.4299927, -0.3099976, 7.9], [1.079987, 0.4307437, 0.8999939, -0.1799927, 7.7], [1.309998, 0.443224, 1.160004, -0.1499939, 7.6], [1.389984, 0.6832356, 1.389984, 0.0, 7.5]]
+tries 5 start 7.75 increment 0.05
+max rotation 0.6300049 
+min rotation -0.02999878 
+average deviation 0.2958876
+max rotation 0.6700134 
+min rotation -0.1099854 
+average deviation 0.1361495
+max rotation 0.3099976 
+min rotation -0.1000061 
+average deviation 0.0960062
+max rotation 0.3500061 
+min rotation -0.1300049 
+average deviation 0.141517
+max rotation 0.2700195 
+min rotation -0.1099854 
+average deviation 0.09744949
+[[0.3800049, 0.09744949, 0.2700195, -0.1099854, 7.950001], [0.4100037, 0.0960062, 0.3099976, -0.1000061, 7.85], [0.480011, 0.141517, 0.3500061, -0.1300049, 7.900001], [0.6600037, 0.2958876, 0.6300049, -0.02999878, 7.75], [0.7799988, 0.1361495, 0.6700134, -0.1099854, 7.8]]
+tries 5 start 7.75 increment 0.05
+max rotation 2.580017 
+min rotation 0.0 
+average deviation 1.463918
+max rotation 0.4700012 
+min rotation -0.25 
+average deviation 0.2053687
+max rotation 0.3599854 
+min rotation -0.1499939 
+average deviation 0.1551502
+max rotation 0.5699768 
+min rotation -0.1000061 
+average deviation 0.3311439
+max rotation 0.3699951 
+min rotation -0.2000122 
+average deviation 0.1311372
+[[0.5099792, 0.1551502, 0.3599854, -0.1499939, 7.85], [0.5700073, 0.1311372, 0.3699951, -0.2000122, 7.950001], [0.6699829, 0.3311439, 0.5699768, -0.1000061, 7.900001], [0.7200012, 0.2053687, 0.4700012, -0.25, 7.8], [2.580017, 1.463918, 2.580017, 0.0, 7.75]]
+
+tries 5 start 7.75 increment 0.05
+max rotation 0.7200012 
+min rotation -0.01000977 
+average deviation 0.3374635
+max rotation 0.4100037 
+min rotation -0.3200073 
+average deviation 0.2020222
+max rotation 0.6000061 
+min rotation -0.1000061 
+average deviation 0.3098052
+max rotation 0.8500061 
+min rotation -0.1300049 
+average deviation 0.3858963
+max rotation 1.100006 
+min rotation -0.1300049 
+average deviation 0.4337704
+[[0.7000122, 0.3098052, 0.6000061, -0.1000061, 7.85], [0.730011, 0.2020222, 0.4100037, -0.3200073, 7.8], [0.730011, 0.3374635, 0.7200012, -0.01000977, 7.75], [0.980011, 0.3858963, 0.8500061, -0.1300049, 7.900001], [1.230011, 0.4337704, 1.100006, -0.1300049, 7.950001]]
+
+tries 5 start 7.75 increment 0.05
+max rotation 0.1299744 
+min rotation -0.3500061 
+average deviation 0.1088807
+max rotation 0.5099792 
+min rotation -0.1800232 
+average deviation 0.2597443
+max rotation 0.4400024 
+min rotation -0.1699829 
+average deviation 0.1521105
+max rotation 0.6099854 
+min rotation -0.1300049 
+average deviation 0.3608675
+max rotation 0.3200073 
+min rotation -0.2999878 
+average deviation 0.1212084
+[[0.4799805, 0.1088807, 0.1299744, -0.3500061, 7.75], [0.6099854, 0.1521105, 0.4400024, -0.1699829, 7.85], [0.6199951, 0.1212084, 0.3200073, -0.2999878, 7.950001], [0.6900024, 0.2597443, 0.5099792, -0.1800232, 7.8], [0.7399902, 0.3608675, 0.6099854, -0.1300049, 7.900001]]
